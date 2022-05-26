@@ -5,7 +5,7 @@
 
 # Server Side:
 - A console application, which it prints each response to the output window before sending back to the client side
-- When it first runs, five per-defined products with random quantities (1-3) are initialized. Hence, products are the same every time the server starts, and the quantities for each product are randomized.
+- When it first runs, five per-defined products with random quantities (1-3) are initialized. Hence, products are the same every time the server starts, and the quantities for each product is randomized.
 - Three accounts are created, each account has an account number and a user name.
 - When the server is active, it stores ordering information to **ConcurrentDictionary**. And, the server does not store the ordering information to the local system, so once the server is shutdown, all information are disposed.
 - Server sends back appropriate response depending on the client’s command. (The list of protocols is below)
@@ -50,7 +50,6 @@
     	<td>DONE<br><em>The order successfully placed</em></br>NOT_AVAILABLE<br><em>The product is not available (i.e., is already purchased by another client) and cannot be purchase.</em></br>NOT_VALID<br><em>The specified product is not valid.</em></br></td>
 	</tr>
 </table>
-# Snapshot for the solution:
-<p align="center">
-	<img src="https://i.imgur.com/SNJUM0Y.gif" />
-</p>
+
+# Demo for the solution:
+https://user-images.githubusercontent.com/106015329/170449045-2e397a5c-8364-4f93-8a6f-7386821eb539.mp4
