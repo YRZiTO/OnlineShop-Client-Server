@@ -52,4 +52,6 @@
 </table>
 
 # Demo for the solution:
-https://user-images.githubusercontent.com/106015329/170449045-2e397a5c-8364-4f93-8a6f-7386821eb539.mp4
+https://github.com/YRZiTO/OnlineShop-Client-Server/assets/106015329/fb437d43-082f-40f6-b20c-4bcc2ee08e7a
+
+
